@@ -1,0 +1,1 @@
+g++ main.cpp -o  main -lopengl32 -lgdi32 -luser32 -lfreeglut -lglu32
